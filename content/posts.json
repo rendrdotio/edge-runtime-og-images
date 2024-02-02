@@ -1,0 +1,82 @@
+[
+  {
+    "attributes": [
+      { "label": "Location", "value": "Miami" },
+      { "label": "Price", "value": "$2,300,000" },
+      { "label": "Square ft.", "value": "1,700" },
+      { "label": "Date listed", "value": "7 hours ago" },
+      {
+        "label": "About this property",
+        "value": "This luxurious mansion It's what you're looking for to have an independent property, overlooking the city and the ocean. every detail is taken care of to perfection, for a total immersion in comfort and luxury"
+      }
+    ],
+    "title": "Luxurious Tropical Mansion",
+    "description": "This luxurious mansion It's what you're looking for to have an independent property, overlooking the city and the ocean. every detail is taken care of to perfection, for a total immersion in comfort and luxury",
+    "energyRating": "A",
+    "constructed": "2015",
+    "features": ["panorama", "home-automation"],
+    "image": "/article-1.jpg",
+    "slug": "luxurious-tropical-mansion",
+    "id": "1"
+  },
+  {
+    "attributes": [
+      { "label": "Location", "value": "San Francisco" },
+      { "label": "Price", "value": "$1,300,000" },
+      { "label": "Square ft.", "value": "1,200" },
+      { "label": "Date listed", "value": "1 hours ago" },
+      {
+        "label": "About this property",
+        "value": "Smart materials, home automation at the highest level, brightness and unparalleled views are what characterize this independent villa in the heart of San Francisco"
+      }
+    ],
+    "title": "Modern and Bright villa",
+    "description": "Smart materials, home automation at the highest level, brightness and unparalleled views are what characterize this independent villa in the heart of San Francisco",
+    "energyRating": "A",
+    "constructed": "2015",
+    "features": ["pool", "home-automation"],
+    "image": "/article-2.jpg",
+    "slug": "modern-and-bright-villa",
+    "id": "2"
+  },
+  {
+    "attributes": [
+      { "label": "Location", "value": "New York" },
+      { "label": "Price", "value": "$3,500,000" },
+      { "label": "Square ft.", "value": "1,500" },
+      { "label": "Date listed", "value": "6 hours ago" },
+      {
+        "label": "About this property",
+        "value": "Minimal style, all modern comforts, this villa is characterized by a large terrace overlooking the wonderful swimming pool, located in a prestigious neighborhood near the city center"
+      }
+    ],
+    "title": "Dream pool and terrace villa",
+    "description": "Minimal style, all modern comforts, this villa is characterized by a large terrace overlooking the wonderful swimming pool, located in a prestigious neighborhood near the city center",
+    "energyRating": "A",
+    "constructed": "2015",
+    "features": ["pool", "terrace", "location"],
+    "image": "/article-3.jpg",
+    "slug": "dream-pool-and-terrace-villa",
+    "id": "3"
+  },
+  {
+    "attributes": [
+      { "label": "Location", "value": "Salt Lake City" },
+      { "label": "Price", "value": "$2,500,000" },
+      { "label": "Square ft.", "value": "5,500" },
+      { "label": "Date listed", "value": "2 hours ago" },
+      {
+        "label": "About this property",
+        "value": "Prestigious stone estate, located on the hills overlooking the city, ideal for disconnecting from the chaos of the city without giving up any comfort."
+      }
+    ],
+    "title": "Panoramic estate in the heart of the hills",
+    "description": "Prestigious stone estate, located on the hills overlooking the city, ideal for disconnecting from the chaos of the city without giving up any comfort",
+    "energyRating": "A",
+    "constructed": "2015",
+    "features": ["pool", "panorama", "home-automation"],
+    "image": "/article-4.jpg",
+    "slug": "panoramic-estate-in-the-heart-of-the-hills",
+    "id": "4"
+  }
+]
